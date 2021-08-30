@@ -1,0 +1,9 @@
+{
+  "name": "mute_me_free",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^2.1.1"
+  }
+}
